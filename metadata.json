@@ -1,0 +1,7 @@
+{
+  "name": "My Investment Manager",
+  "description": "Internal CRM and management system for investment and insurance business with automated client reminders, policy tracking, and role-based access.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
